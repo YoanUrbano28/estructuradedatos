@@ -9,10 +9,7 @@ class persona():
 
 print(persona1.nombre,persona1.edad,persona1.genero)
 
-class rectangulo():
-  def __init__(self,longitud,area):
-    self.longitud = longitud
-    self.area =  area
+
 
 
 
